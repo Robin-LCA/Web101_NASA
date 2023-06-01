@@ -1,0 +1,26 @@
+body {
+   width:850px;
+   margin:0 auto;
+   font-family: Open Sans, sans-serif;
+}
+
+main {
+   background-image: url(./space2.jpg);
+   background-size: cover;
+   /* background-repeat: no-repeat; */
+   height: 450px;
+   display:flex;
+   justify-content: center;
+   align-items: center;
+}
+
+
+h1 {
+   font-family: 'Changa One', cursive;
+   font-size: 65px;
+   color: #ffffff;
+}
+
+h2 {
+   text-transform: uppercase;
+}
